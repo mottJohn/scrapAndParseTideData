@@ -22,3 +22,6 @@ After we do this, we just sort and output a csv
 
 # Excel Template
 If you really don't like program, I have also prepare an excel template which does the same things.
+
+# Discovery
+* Just found that [Data.gov.hk pubish](https://data.gov.hk/en-datasets/search/tidal) predict tide
